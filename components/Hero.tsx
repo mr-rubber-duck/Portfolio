@@ -33,7 +33,7 @@ const Hero = () => {
             />
 
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Hi! I&apos;m Taha Amine Eddine,a dedicated developer and cybersecurity enthusiast with a passion for crafting innovative digital solutions. My journey is driven by creativity and precision, focusing on building 
+            Hi!  I&apos;m Taha Amine Eddine,a dedicated developer and cybersecurity enthusiast with a passion for crafting innovative digital solutions. My journey is driven by creativity and precision, focusing on building 
             applications and tools that combine functionality with intuitive design.
              Welcome to my portfolio  a showcase of my work, growth, and commitment to excellence."
             </p>
